@@ -1,0 +1,19 @@
+.para{
+    
+    color:chartreuse;
+    font-family:cursive;    
+}
+p{
+    color: blue;
+    font-family: sans-serif;
+}
+section p{
+    display: flex;
+    color:darkgoldenrod;
+}
+thead th{
+    color: crimson
+}
+ul>li{
+    color: aquamarine;
+}
